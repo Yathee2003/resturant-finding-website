@@ -1,0 +1,1 @@
+This is the task I completed under my internship program conducted by Octanet company . This was a resturant website that shows you all resturants that are available in your surrounding areas by entering your postcode and just click on explore button. But this is only the designing part not a included the funtioning of the website.
